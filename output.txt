@@ -1,0 +1,11 @@
+Accuracy of tree 1 on data is 0.926
+Accuracy of tree 2 on data is 0.874
+Accuracy of tree 3 on data is 0.874
+Accuracy of tree 4 on data is 0.928
+Accuracy of tree 5 on data is 0.893
+Accuracy of tree 1 on data is 0.470489038786
+Accuracy of tree 2 on data is 0.445193929174
+Accuracy of tree 3 on data is 0.453625632378
+Accuracy of tree 4 on data is 0.456998313659
+Accuracy of tree 5 on data is 0.467116357504
+0.933898305085 max accuracy
